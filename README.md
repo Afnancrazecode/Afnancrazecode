@@ -1,3 +1,8 @@
+<h1 align="center">
+  <h2> Hey Nerds !! Im AFNAN SHAIKH 👋 </h2>
+</h1>
+
+
 # 💫 About Me:
 👋 Hi, I'm Afnan Shaikh!  <br>🚀 Passionate about software development, machine learning, and web applications.  <br>🛠️ Also developing "OfflineHub", a web app with various utilities and games.  <br>🎯 Always learning and exploring new technologies!  <br>🎯Love building smart applications that solve real-world problems<br><br><br>
 
